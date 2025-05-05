@@ -1,12 +1,156 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Kuksz\\Desktop\\StackOverflowDatabase\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C818C4-CFF0-46C3-819F-4A7E7BA32E2A}|StackOverflowDatabase\\StackOverflowDatabase.csproj|c:\\users\\kuksz\\desktop\\stackoverflowdatabase\\stackoverflowdatabase\\migrations\\20250505115841_uploadentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C818C4-CFF0-46C3-819F-4A7E7BA32E2A}|StackOverflowDatabase\\StackOverflowDatabase.csproj|solutionrelative:stackoverflowdatabase\\migrations\\20250505115841_uploadentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C818C4-CFF0-46C3-819F-4A7E7BA32E2A}|StackOverflowDatabase\\StackOverflowDatabase.csproj|c:\\users\\kuksz\\desktop\\stackoverflowdatabase\\stackoverflowdatabase\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A3C818C4-CFF0-46C3-819F-4A7E7BA32E2A}|StackOverflowDatabase\\StackOverflowDatabase.csproj|solutionrelative:stackoverflowdatabase\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C818C4-CFF0-46C3-819F-4A7E7BA32E2A}|StackOverflowDatabase\\StackOverflowDatabase.csproj|c:\\users\\kuksz\\desktop\\stackoverflowdatabase\\stackoverflowdatabase\\entities\\stackoverflowcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C818C4-CFF0-46C3-819F-4A7E7BA32E2A}|StackOverflowDatabase\\StackOverflowDatabase.csproj|solutionrelative:stackoverflowdatabase\\entities\\stackoverflowcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C818C4-CFF0-46C3-819F-4A7E7BA32E2A}|StackOverflowDatabase\\StackOverflowDatabase.csproj|c:\\users\\kuksz\\desktop\\stackoverflowdatabase\\stackoverflowdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C818C4-CFF0-46C3-819F-4A7E7BA32E2A}|StackOverflowDatabase\\StackOverflowDatabase.csproj|solutionrelative:stackoverflowdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C818C4-CFF0-46C3-819F-4A7E7BA32E2A}|StackOverflowDatabase\\StackOverflowDatabase.csproj|c:\\users\\kuksz\\desktop\\stackoverflowdatabase\\stackoverflowdatabase\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C818C4-CFF0-46C3-819F-4A7E7BA32E2A}|StackOverflowDatabase\\StackOverflowDatabase.csproj|solutionrelative:stackoverflowdatabase\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C818C4-CFF0-46C3-819F-4A7E7BA32E2A}|StackOverflowDatabase\\StackOverflowDatabase.csproj|c:\\users\\kuksz\\desktop\\stackoverflowdatabase\\stackoverflowdatabase\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C818C4-CFF0-46C3-819F-4A7E7BA32E2A}|StackOverflowDatabase\\StackOverflowDatabase.csproj|solutionrelative:stackoverflowdatabase\\entities\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C818C4-CFF0-46C3-819F-4A7E7BA32E2A}|StackOverflowDatabase\\StackOverflowDatabase.csproj|c:\\users\\kuksz\\desktop\\stackoverflowdatabase\\stackoverflowdatabase\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C818C4-CFF0-46C3-819F-4A7E7BA32E2A}|StackOverflowDatabase\\StackOverflowDatabase.csproj|solutionrelative:stackoverflowdatabase\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3C818C4-CFF0-46C3-819F-4A7E7BA32E2A}|StackOverflowDatabase\\StackOverflowDatabase.csproj|c:\\users\\kuksz\\desktop\\stackoverflowdatabase\\stackoverflowdatabase\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3C818C4-CFF0-46C3-819F-4A7E7BA32E2A}|StackOverflowDatabase\\StackOverflowDatabase.csproj|solutionrelative:stackoverflowdatabase\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 284,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250505115841_UploadEntities.cs",
+              "DocumentMoniker": "C:\\Users\\Kuksz\\Desktop\\StackOverflowDatabase\\StackOverflowDatabase\\Migrations\\20250505115841_UploadEntities.cs",
+              "RelativeDocumentMoniker": "StackOverflowDatabase\\Migrations\\20250505115841_UploadEntities.cs",
+              "ToolTip": "C:\\Users\\Kuksz\\Desktop\\StackOverflowDatabase\\StackOverflowDatabase\\Migrations\\20250505115841_UploadEntities.cs",
+              "RelativeToolTip": "StackOverflowDatabase\\Migrations\\20250505115841_UploadEntities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:58:41.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Kuksz\\Desktop\\StackOverflowDatabase\\StackOverflowDatabase\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "StackOverflowDatabase\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Kuksz\\Desktop\\StackOverflowDatabase\\StackOverflowDatabase\\appsettings.Development.json",
+              "RelativeToolTip": "StackOverflowDatabase\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T11:58:19.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StackOverflowContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kuksz\\Desktop\\StackOverflowDatabase\\StackOverflowDatabase\\Entities\\StackOverflowContext.cs",
+              "RelativeDocumentMoniker": "StackOverflowDatabase\\Entities\\StackOverflowContext.cs",
+              "ToolTip": "C:\\Users\\Kuksz\\Desktop\\StackOverflowDatabase\\StackOverflowDatabase\\Entities\\StackOverflowContext.cs",
+              "RelativeToolTip": "StackOverflowDatabase\\Entities\\StackOverflowContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:48:17.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Kuksz\\Desktop\\StackOverflowDatabase\\StackOverflowDatabase\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "StackOverflowDatabase\\Entities\\Tag.cs",
+              "ToolTip": "C:\\Users\\Kuksz\\Desktop\\StackOverflowDatabase\\StackOverflowDatabase\\Entities\\Tag.cs",
+              "RelativeToolTip": "StackOverflowDatabase\\Entities\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:48:48.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\Kuksz\\Desktop\\StackOverflowDatabase\\StackOverflowDatabase\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "StackOverflowDatabase\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\Kuksz\\Desktop\\StackOverflowDatabase\\StackOverflowDatabase\\Entities\\Comment.cs",
+              "RelativeToolTip": "StackOverflowDatabase\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:47:21.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Kuksz\\Desktop\\StackOverflowDatabase\\StackOverflowDatabase\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "StackOverflowDatabase\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Kuksz\\Desktop\\StackOverflowDatabase\\StackOverflowDatabase\\Entities\\User.cs",
+              "RelativeToolTip": "StackOverflowDatabase\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:45:50.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\Kuksz\\Desktop\\StackOverflowDatabase\\StackOverflowDatabase\\Entities\\Question.cs",
+              "RelativeDocumentMoniker": "StackOverflowDatabase\\Entities\\Question.cs",
+              "ToolTip": "C:\\Users\\Kuksz\\Desktop\\StackOverflowDatabase\\StackOverflowDatabase\\Entities\\Question.cs",
+              "RelativeToolTip": "StackOverflowDatabase\\Entities\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T11:22:38.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kuksz\\Desktop\\StackOverflowDatabase\\StackOverflowDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "StackOverflowDatabase\\Program.cs",
+              "ToolTip": "C:\\Users\\Kuksz\\Desktop\\StackOverflowDatabase\\StackOverflowDatabase\\Program.cs",
+              "RelativeToolTip": "StackOverflowDatabase\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:53:46.547Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
