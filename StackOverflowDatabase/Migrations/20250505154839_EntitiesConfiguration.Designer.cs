@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using StackOverflowDatabase.Entities;
 
@@ -11,9 +12,11 @@ using StackOverflowDatabase.Entities;
 namespace StackOverflowDatabase.Migrations
 {
     [DbContext(typeof(StackOverflowContext))]
-    partial class StackOverflowContextModelSnapshot : ModelSnapshot
+    [Migration("20250505154839_EntitiesConfiguration")]
+    partial class EntitiesConfiguration
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
