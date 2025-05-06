@@ -6,6 +6,7 @@
         public string UserNick { get; set; }
         public string FullName { get; set; }
         public string Email { get; set; }
-        // question, comments
+        public List<Question> Questions { get; set; } = new List<Question>();
+        public List<Comment> Comments { get; set; } = new List<Comment>();
     }
 }

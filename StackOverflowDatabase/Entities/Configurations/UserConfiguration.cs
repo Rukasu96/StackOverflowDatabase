@@ -10,6 +10,8 @@ namespace StackOverflowDatabase.Entities.Configurations
             builder.Property(x => x.FullName).HasColumnType("varchar(50)").IsRequired();
             builder.Property(x => x.UserNick).HasColumnType("varchar(50)").IsRequired();
             builder.Property(x => x.Email).HasColumnType("varchar(50)").IsRequired();
+
+            builder.HasMany(x => x.Comments).WithOne(x => x.User).HasForeignKey(x => x.UserId);
         }
     }
 }

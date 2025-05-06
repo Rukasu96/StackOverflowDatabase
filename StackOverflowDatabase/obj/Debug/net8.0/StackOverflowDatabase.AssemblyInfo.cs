@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StackOverflowDatabase")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc8250ef0cfc9f55bd11817a249f568f5b1cccf6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6953430a5b401e4ba354f4f127d062c3e33bc20")]
 [assembly: System.Reflection.AssemblyProductAttribute("StackOverflowDatabase")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StackOverflowDatabase")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
