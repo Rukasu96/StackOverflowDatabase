@@ -9,6 +9,8 @@ namespace StackOverflowDatabase.Entities.Configurations
         {
             builder.Property(x => x.Topic).HasColumnType("varchar(200)").IsRequired();
             builder.Property(x => x.Description).IsRequired();
+            builder.Property(x => x.AskedDate).HasDefaultValueSql("getutcdate()");
+            builder.Property(x => x.ModifiedDate).ValueGeneratedOnUpdate();
             builder.Property(x => x.Views).HasDefaultValue(0);
             builder.Property(x => x.Likes).HasDefaultValue(0);
             
